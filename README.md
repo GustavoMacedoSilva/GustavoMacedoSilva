@@ -16,6 +16,8 @@ Este perfil contém os códigos de trabalhos e projetos feitos por mim durante m
 
 - **Linguagens:** C++, Python, Java
 - **Ferramentas de Desenvolvimento:** Git, Visual Studio Code
+- **Frameworks:** Django
+- **Libs:** Selenium
 
 ---
 
