@@ -11,7 +11,7 @@ Este perfil contém os códigos de trabalhos e projetos feitos por mim durante m
 
 ---
 
-## 🚀 Linguagens que normalmente uso
+## 🚀 Ferramentas
 
 
 - **Linguagens:** C++, Python, Java
