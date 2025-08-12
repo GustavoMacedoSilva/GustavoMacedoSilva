@@ -16,8 +16,8 @@ Este perfil contém os códigos de trabalhos e projetos feitos por mim durante m
 
 - **Linguagens:** C++, Python, Java
 - **Ferramentas de Desenvolvimento:** Git, Visual Studio Code
-- **Frameworks:** Django
-- **Libs:** Selenium
+- **Frameworks:** Django, TailwindCSS
+- **Libs:** Selenium, Pandas
 
 ---
 
@@ -25,13 +25,14 @@ Este perfil contém os códigos de trabalhos e projetos feitos por mim durante m
 
 Atualmente, estou focado em:
 
-- Projeto Almoxarifado
+- Aprender PHP, TailWindCSS, Vue.js, Laravel
 
 ---
 
 ## 📫 Como entrar em contato
 
-Você pode me encontrar no [LinkedIn](www.linkedin.com/in/gustavo-macedo-silva-736b4632a).
+- Você pode me encontrar no [LinkedIn](www.linkedin.com/in/gustavo-macedo-silva-736b4632a).
+- Email: macedo.gustavo@ges.inatel.br
 
 ---
 
