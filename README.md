@@ -1,7 +1,7 @@
 # GustavoMSilva
 
 🎓 **Estudante da Inatel**  
-🤖 **Participante do Time de Robótica [RobotBulls](https://www.instagram.com/robotbulls/)**
+🤖 **Ex-Participante do Time de Robótica [RobotBulls](https://www.instagram.com/robotbulls/)**
 
 ---
 
