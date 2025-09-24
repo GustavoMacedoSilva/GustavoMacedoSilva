@@ -14,9 +14,9 @@ Este perfil contém os códigos de trabalhos e projetos feitos por mim durante m
 ## 🚀 Ferramentas
 
 
-- **Linguagens:** C++, Python, Java
+- **Linguagens:** C++, Python, Java, Ruby
 - **Ferramentas de Desenvolvimento:** Git, Visual Studio Code
-- **Frameworks:** Django, TailwindCSS
+- **Frameworks:** Django, TailwindCSS, FastAPI
 - **Libs:** Selenium, Pandas
 
 ---
@@ -25,7 +25,7 @@ Este perfil contém os códigos de trabalhos e projetos feitos por mim durante m
 
 Atualmente, estou focado em:
 
-- Aprender PHP, TailWindCSS, Vue.js, Laravel
+- Aprendendo Ruby
 
 ---
 
