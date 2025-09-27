@@ -25,7 +25,7 @@ Este perfil contém os códigos de trabalhos e projetos feitos por mim durante m
 
 Atualmente, estou focado em:
 
-- Aprendendo Ruby
+- Aprendendo Rust
 
 ---
 
